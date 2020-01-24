@@ -9,3 +9,7 @@
 #ignore .csv
 data/
 *.csv
+
+#ignore pdf/samplecode/ans
+Pdf/
+samplecode_and_ans
