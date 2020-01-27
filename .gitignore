@@ -11,5 +11,5 @@ data/
 *.csv
 
 #ignore pdf/samplecode/ans
-Pdf/
+Material/
 samplecode_and_ans
